@@ -4,7 +4,7 @@
 Um aplicativo feito em Flutter, baseado no projeto SnakeEye, que permite a comunicação entre Smartphones e sensores MLX90640 acoplados em uma placa ESP32. O aplicativo tem por objetivo simplicar a coleta de dados térmicos em experimentos realizados em regiões sem rede de comunicação disponível. Os dados capturados serão utilizados durante a realização da pesquisa de mestrado do desenvolvedor deste projeto na UFRPE.
 
 - App desenvolvido como projeto da Disciplina Fundamentos de Informática Aplicada da UFRPE/PPGIA.
-- 
+
 ### Requisitos:
 
 - Placa ESP32 (ou compatível) com WiFi;
@@ -18,3 +18,6 @@ Um aplicativo feito em Flutter, baseado no projeto SnakeEye, que permite a comun
 
 ### Widget tree e Telas
 
+<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/WidgetTree1.png" width="800" height="480">
+<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/WidgetTree2.png" width="800" height="480">
+<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/WidgetTree3.png" width="800" height="480">
