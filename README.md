@@ -28,4 +28,4 @@ Um aplicativo feito em Flutter, baseado no projeto SnakeEye, que permite a comun
 
 ### Instruções de Uso 
 
-[<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/TutorialUso.png" width="321" height="180">](https://youtu.be/IyXfCmeoVNc)
+[<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/TutorialUso.png" width="321" height="180">](https://youtu.be/IyXfCmeoVNc){:target="_blank"}
