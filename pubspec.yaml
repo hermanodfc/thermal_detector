@@ -1,4 +1,4 @@
-name: thermal_detector
+name: ThermalDetector
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -34,7 +34,16 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-
+  usb_serial: ^0.4.0
+  ffi: ^1.2.1
+  http: ^0.13.4
+  camera: ^0.9.8+1
+  flutter_native_splash: ^2.2.4
+  path_provider: ^2.0.11
+  ext_storage: ^1.0.3
+  intl: ^0.17.0
+  permission_handler: ^10.0.0
+  flutter_launcher_icons: ^0.9.3
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -87,3 +96,11 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+flutter_native_splash:
+  color: "#000000 "
+  image: "assets/jualabs.png"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: false
+  image_path: "assets/jualabs-dark.png"
