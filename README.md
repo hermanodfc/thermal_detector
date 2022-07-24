@@ -18,6 +18,6 @@ Um aplicativo feito em Flutter, baseado no projeto SnakeEye, que permite a comun
 
 ### Widget tree e Telas
 
-<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/WidgetTree1.png" width="800" height="480">
-<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/WidgetTree2.png" width="800" height="480">
-<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/WidgetTree3.png" width="800" height="480">
+<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/WidgetTree1.png" width="974" height="678">
+<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/WidgetTree2.png" width="1364" height="755">
+<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/WidgetTree3.png" width="961" height="931">
