@@ -34,4 +34,4 @@ Um aplicativo feito em Flutter, baseado no projeto SnakeEye, que permite a comun
 
 ### Publicação
 
-O app ainda aguarda autorização do Google para publicação [(click aqui)](https://github.com/hermanodfc/thermal_detector/blob/master/images/Releases%20Review%20_%20Thermal%20Detector.pdf)).
+O app ainda aguarda autorização do Google para publicação [(click aqui)](https://github.com/hermanodfc/thermal_detector/blob/master/images/Releases%20Review%20_%20Thermal%20Detector.pdf).
