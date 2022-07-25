@@ -1,6 +1,5 @@
 # Thermal Detector
 
-
 Um aplicativo feito em Flutter, baseado no projeto SnakeEye, que permite a comunicação entre Smartphones e sensores MLX90640 acoplados em uma placa ESP32. O aplicativo tem por objetivo simplicar a coleta de dados térmicos em experimentos realizados em regiões sem rede de comunicação disponível. Os dados capturados serão utilizados durante a realização da pesquisa de mestrado do desenvolvedor deste projeto na UFRPE.
 
 - App desenvolvido como projeto da Disciplina Fundamentos de Programação Aplicada - PGIA7310 - da UFRPE/PPGIA.
@@ -28,4 +27,11 @@ Um aplicativo feito em Flutter, baseado no projeto SnakeEye, que permite a comun
 
 ### Instruções de Uso 
 
-[<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/TutorialUso.png" width="321" height="180">](https://youtu.be/IyXfCmeoVNc){:target="_blank"}
+[<img src="https://github.com/hermanodfc/thermal_detector/blob/master/images/TutorialUso.png" width="321" height="180">](https://youtu.be/IyXfCmeoVNc)
+
+### Pitch
+
+
+### Publicação
+
+O app ainda aguarda autorização do Google para publicação [(click aqui)](https://github.com/hermanodfc/thermal_detector/blob/master/images/Releases%20Review%20_%20Thermal%20Detector.pdf)).
