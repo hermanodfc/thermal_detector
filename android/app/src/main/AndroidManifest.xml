@@ -1,6 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.thermal_detector">
    <application
+        android:versionCode="1"
+        android:versionName="First"
         android:requestLegacyExternalStorage="true"
         android:label="Thermal Detector"
         android:name="${applicationName}"
